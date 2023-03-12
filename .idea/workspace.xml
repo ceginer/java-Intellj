@@ -5,24 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91a08b3b-d538-48a7-b79a-47f31fc76c09" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BookExam1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CarExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CarExam2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PersonTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SuperCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UserExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/Main/CalculatorMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/util/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/util2/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bus2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Car2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Car2Exam02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SuperCar2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/LottoMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/LottoMachineImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/LottoMachineMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MathTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -71,20 +63,17 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Son\IdeaProjects\HappyJava" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UserExam">
-    <configuration name="CalculatorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Main.CalculatorMain" />
+  <component name="RunManager" selected="Application.LottoMachineMain">
+    <configuration name="Car2Exam02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Car2Exam02" />
       <module name="HappyJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.Main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -103,9 +92,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PersonTest2" />
+    <configuration name="LottoMachineMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.LottoMachineMain" />
       <module name="HappyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -119,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LottoMachineMain" />
+        <item itemvalue="Application.Car2Exam02" />
         <item itemvalue="Application.UserExam" />
         <item itemvalue="Application.CarExam2" />
         <item itemvalue="Application.CarExam" />
-        <item itemvalue="Application.CalculatorMain" />
-        <item itemvalue="Application.PersonTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +132,7 @@
       <updated>1678200270106</updated>
       <workItem from="1678200270648" duration="4695000" />
       <workItem from="1678329257774" duration="32930000" />
-      <workItem from="1678451886731" duration="8050000" />
+      <workItem from="1678451886731" duration="23719000" />
     </task>
     <servers />
   </component>
