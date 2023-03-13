@@ -18,4 +18,4 @@ public class LottoMachineMain {
             System.out.println(result[i].getNumber());
         }
     }
-}
+}햣

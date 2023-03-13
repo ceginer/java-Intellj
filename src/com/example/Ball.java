@@ -9,4 +9,10 @@ public class Ball {
     public int getNumber() {
         return number;
     }
+    runnableExecute.execute(()-> {
+        System.out.println("Hello!!");
+        }
+    );
+
+    }
 }
