@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91a08b3b-d538-48a7-b79a-47f31fc76c09" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/Ball.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/LottoMachineMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/LottoMachineMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/assignment1_package" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-17/lib/src.zip!/java.base/java/io/PrintStream.java" root0="FORCE_HIGHLIGHTING" />
@@ -126,7 +126,7 @@
       <updated>1678200270106</updated>
       <workItem from="1678200270648" duration="4695000" />
       <workItem from="1678329257774" duration="32930000" />
-      <workItem from="1678451886731" duration="26441000" />
+      <workItem from="1678451886731" duration="38429000" />
     </task>
     <servers />
   </component>
